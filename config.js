@@ -62,7 +62,15 @@ global.api_smd = "https://api-smd.onrender.com" //  || "https://api-smd-1.vercel
 global.scan = "https://suhail-md-vtsf.onrender.com";
 
 
-global.SESSION_ID = process.env.SESSION_ID ||  ""  // PUT your SESSION_ID 
+global.SESSION_ID = process.env.SESSION_ID ||  "
+TODAY
+Messages are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Click to learn more
+Your security code with My n H changed. Click to learn more
+SUHAIL_04_28_07_05_ewogICJjcmVkcy5qc29uIjogIntcbiAgXCJub2lzZUtleVwiOiB7XG4gICAgXCJwcml2YXRlXCI6IHtcbiAgICAgIFwidHlwZVwiOiBcIkJ1ZmZlclwiLFxuICAgICAgXCJkYXRhXCI6IFtcbiAgICAgICAgMjA4LFxuICAgICAgICAxNDYsXG4gICAgICAgIDExNixcbiAgICAgICAgMTU3LFxuICAgICAgICA5NixcbiAgICAgICAgOTUsXG4gICAgICAgIDIzLFxuICAgICAgICAxMCxcbiAgICAgICAgMzAsXG4gICAgICAgIDIxNSxcbiAgICAgICAgMTcxLFxuICAgICAgICA3NixcbiAgICAgICAgMTY5LFxuICAgICAgICAxMjEsXG4gICAgICAgIDI0NyxcbiAgICAgICAgNDQsXG4gICAgICAgIDg3LFxuICAgICAgICAxOTAsXG4gICAgICAgIDIxNCxcbiAgICAgICAgNzEsXG4gICAgICAgIDE5NSxcbiAgICAgICAgOSxcbiAgICAgICAgNjMsXG4gICAgICAgIDE2NCxcbiAgICAgICAgMCxcbiAgICAgICAgMjgsXG4gICAgICAgIDU2LFxuICAgICAgICAyNDQsXG4gICAgICAgIDE1MSxcbiAgICAgICAgMTE0LFxuICAgICAgICAyNDQsXG4gICAgICAgIDkxXG4gICAgICBdXG4gICAgfSxcbiAgICBcI… Read more
+10:05
+
+
+"  // PUT your SESSION_ID 
 
 
 module.exports = {
